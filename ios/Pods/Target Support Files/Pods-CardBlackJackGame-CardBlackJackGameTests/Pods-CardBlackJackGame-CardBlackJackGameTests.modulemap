@@ -1,0 +1,6 @@
+module Pods_CardBlackJackGame_CardBlackJackGameTests {
+  umbrella header "Pods-CardBlackJackGame-CardBlackJackGameTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
